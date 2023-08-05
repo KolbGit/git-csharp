@@ -6,10 +6,16 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Eugen!");
-            Console.WriteLine("Hello Kolb!");
-            Console.WriteLine("Hello Valua!");
+            // Настройка консольного пользовательского интерфейса.
+            Console.Title = "My Rocking App";
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.WriteLine("*************************************");
+            Console.WriteLine("***** Welcome to My Rocking App *****");
+            Console.WriteLine("*******************★*****************");
+            Console.BackgroundColor = ConsoleColor.Black;
+            // Ожидание нажатия клавиши <Enter>.
+            Console.ReadLine();
         }
     }
 }
