@@ -9,6 +9,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("Hello World!");
             Console.WriteLine("Eugen!");
             Console.WriteLine("Hello Kolb!");
+            Console.WriteLine("Hello Valua!");
         }
     }
 }
