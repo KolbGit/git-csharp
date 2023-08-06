@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win 10\\Downloads\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Win 10\\Downloads\\git-csharp\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj",
       "projectName": "SimpleCSharpConsoleApp",
-      "projectPath": "C:\\Users\\Win 10\\Downloads\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Win 10\\Downloads\\git-csharp\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Win 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Win 10\\Downloads\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Win 10\\Downloads\\git-csharp\\SimpleCSharpConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
