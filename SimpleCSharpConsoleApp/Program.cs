@@ -10,6 +10,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("***** My First C# Арр *****");
             Console.WriteLine("Hello World");
             Console.WriteLine();
+            Console.WriteLine();
             // Ожидать нажатия клавиши <Enter>, прежде чем завершить работу.
             Console.ReadLine();
         }
