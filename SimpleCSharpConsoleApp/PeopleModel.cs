@@ -8,5 +8,8 @@ namespace SimpleCSharpConsoleApp
 {
     internal class PeopleModel
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public int Age { get; set; }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SimpleCSharpConsoleApp;
+using System;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
@@ -6,13 +7,14 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            // Вывести пользователю простое сообщение.
-            Console.WriteLine("***** My First C# Арр *****");
-            Console.WriteLine("Hello World");
-            Console.WriteLine();
-            Console.WriteLine();
-            // Ожидать нажатия клавиши <Enter>, прежде чем завершить работу.
-            Console.ReadLine();
+            PeopleModel p = new PeopleModel()
+            {
+                FirstName = "Timon",
+                LastName = "Berkovec",
+                Age = 18
+            };
+
+            Console.WriteLine($"{p.FirstName} {p.LastName} it't his name and his {p.Age} years");
         }
     }
 }
