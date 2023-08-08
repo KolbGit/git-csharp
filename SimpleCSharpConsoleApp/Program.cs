@@ -9,11 +9,11 @@ namespace ImplicitlyTypedLocalVars
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***** Fun with Implicit Typing *****");
-            DeclareImplicitVars();
+            //Console.WriteLine("***** Fun with Implicit Typing *****");
+            //DeclareImplicitVars();
             QueryOverInts();
-            Console.WriteLine();
-            Console.ReadKey();
+            //Console.WriteLine();
+            //Console.ReadKey();
         }
 
         #region Implicit data typing
